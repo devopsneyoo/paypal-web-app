@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.60.138.40:8081/repository/apple-releases/</url>
+	      <url>http://172.31.14.69:8081/repository/apple-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://52.60.138.40:8081/repository/applesnapshot/</url>
+	      <url>http://172.31.14.69:8081/repository/applesnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
